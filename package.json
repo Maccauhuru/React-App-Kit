@@ -1,0 +1,14 @@
+{
+  "name": "createreactapp",
+  "version": "1.0.0",
+  "description": "Create React App kit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S.L.Mupfukudzwa",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  }
+}
